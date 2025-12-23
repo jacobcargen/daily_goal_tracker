@@ -1,0 +1,1 @@
+Track progress of daily goals. Different approach to meeting goals and creating better habbits.
